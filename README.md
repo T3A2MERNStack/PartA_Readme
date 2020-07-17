@@ -120,10 +120,10 @@ Wireframes were created for all pages and all page sizes. A selection have been 
 ![Day1](docs/day1.png)
 
 #### Day 2
-![Day2](docs/day2.png)
+![Day2](docs/Day2.png)
 
 #### Day 3
-![Day3](docs/day3.png)
+![Day3](docs/Day3.png)
 
 #### Day 4
 ![Day4](docs/day4.png)
