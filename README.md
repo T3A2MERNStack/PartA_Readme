@@ -50,7 +50,7 @@ Anyone looking for ways to reduce their environmental footprint at home
 
 # R3 | Application Architecture Diagram
 [Application Architecture Diagram](https://app.lucidchart.com/invitations/accept/3388646d-58c8-4b0d-95d7-0e8880ce11fc)
-![Application Architecture Diagram](docs/AAD.png)
+<br/> ![Application Architecture Diagram](docs/AAD.png)
 
 # R4 | User Stories
 + As a logged in user, I want to be able to create a recipe, so that I can share the recipe with other who might be interested.
@@ -76,26 +76,26 @@ Anyone looking for ways to reduce their environmental footprint at home
 Wireframes were created for all pages and all page sizes. A selection have been displayed below with the remainder available in the link.
 
 ### Mobile
-[Mobile Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=31%3A10)
+[View all Mobile Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=31%3A10)
 
-![Sign Up Page](docs/Mobile_Signup.png)
-![Welcome Page](docs/Mobile_Welcome.png)
-![Display Category ie. All Cleaning Recipes](docs/Mobile_Category.png)
+<br/> ![Sign Up Page](docs/Mobile_Signup.png)
+<br/> ![Welcome Page](docs/Mobile_Welcome.png)
+<br/> ![Display Category ie. All Cleaning Recipes](docs/Mobile_Category.png)
 
 ### Tablet
-[Tablet Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=29%3A19)
+[View all Tablet Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=29%3A19)
 
-![Create a New Recipe](docs/Tablet_NewRecipe.png)
-![Display Recipe](docs/Tablet_DisplayRecipe.png)
-![User's Recipes](docs/Tablet_UserRecipes.png)
+<br/> ![Create a New Recipe](docs/Tablet_NewRecipe.png)
+<br/> ![Display Recipe](docs/Tablet_DisplayRecipe.png)
+<br/> ![User's Recipes](docs/Tablet_UserRecipes.png)
 
 
 ### Desktop 
-[Desktop Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=0%3A1)
+[View all Desktop Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=0%3A1)
 
-![Login](docs/Laptop_Login.png)
-![Display Recipe](docs/Laptop_DisplayRecipe.png)
-![Display Category ie. All Skincare Recipes](docs/Laptop_SkincareAll.png)
+<br/> ![Login](docs/Laptop_Login.png)
+<br/> ![Display Recipe](docs/Laptop_DisplayRecipe.png)
+<br/> ![Display Category ie. All Skincare Recipes](docs/Laptop_SkincareAll.png)
 
 # R6 | Trello Board Screenshots
 [Trello Board](https://trello.com/b/3fE4Zkf8/zero-waste-diy-recipe-book)
