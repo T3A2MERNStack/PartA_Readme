@@ -42,7 +42,7 @@ Anyone looking for ways to reduce their environmental footprint at home
 + Figma - to create Wireframes
 + Trello Board - Project Planning Tool
 + Lucid Chart - Data Flow Diagram, Application Architecture Diagram, ERD
-+ Google Drive - to compile docs
++ Google Drive - to compile docs and put together Readme
 
 # R2 | Data Flow Diagram
 [Data Flow Diagram](https://app.lucidchart.com/documents/edit/453bd56e-3f76-49d3-955f-e67b0e84a36a/0_0?beaconFlowId=CBC8785147198093)
@@ -78,23 +78,38 @@ Wireframes were created for all pages and all page sizes. A selection have been 
 ### Mobile
 [View all Mobile Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=31%3A10)
 
+###### Sign Up
 <br/> ![Sign Up Page](docs/Mobile_Signup.png)
+
+###### Welcome 
 <br/> ![Welcome Page](docs/Mobile_Welcome.png)
+
+###### All Recipes within Category
 <br/> ![Display Category ie. All Cleaning Recipes](docs/Mobile_Category.png)
 
 ### Tablet
 [View all Tablet Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=29%3A19)
 
+###### Create A New Recipe
 <br/> ![Create a New Recipe](docs/Tablet_NewRecipe.png)
+
+###### Display Single Recipe
 <br/> ![Display Recipe](docs/Tablet_DisplayRecipe.png)
+
+###### User's Recipes
 <br/> ![User's Recipes](docs/Tablet_UserRecipes.png)
 
 
 ### Desktop 
 [View all Desktop Wireframes](https://www.figma.com/file/kN7K2YGSeGk1oRk8dL2ZOL/Sustainable_Living?node-id=0%3A1)
 
+###### Login
 <br/> ![Login](docs/Laptop_Login.png)
+
+###### Display Single Recipe
 <br/> ![Display Recipe](docs/Laptop_DisplayRecipe.png)
+
+###### All Recipes within Category
 <br/> ![Display Category ie. All Skincare Recipes](docs/Laptop_SkincareAll.png)
 
 # R6 | Trello Board Screenshots
