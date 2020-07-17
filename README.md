@@ -1,6 +1,6 @@
 # R1 | Website Description
 ### Purpose
-To build an instagram/taste like resource purely for sustainable living products where users can add ‘recipes’ for; skincare, cleaning products, perfume, diffusers etc. The purpose of building such a website is so that consumers can reduce their environmental footprint by limiting the amount of packaging bought from everyday products while targeting a zero waste lifestyle. 
+To build an instagram/taste like resource purely for sustainable living products where users can add and search ‘recipes’ for; skincare, cleaning products, perfume, diffusers etc. The purpose of building such a website is so that consumers can reduce their environmental footprint by limiting the amount of packaging bought from everyday products while targeting a zero waste lifestyle. 
  
 ### Functionality 
 + Roles of users and admin
