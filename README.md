@@ -45,7 +45,7 @@ Anyone looking for ways to reduce their environmental footprint at home
 + Google Drive - to compile docs
 
 # R2 | Data Flow Diagram
-[Data Flow Diagram](https://app.lucidchart.com/documents/edit/453bd56e-3f76-49d3-955f-e67b0e84a36a/0_0?beaconFlowId=CBC8785147198093)
+| [Data Flow Diagram](https://app.lucidchart.com/documents/edit/453bd56e-3f76-49d3-955f-e67b0e84a36a/0_0?beaconFlowId=CBC8785147198093)
 ![Data Flow Diagram](docs/DFD.png)
 
 # R3 | Application Architecture Diagram
